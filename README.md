@@ -2,5 +2,5 @@
 
 ```csharp
 github.com/kiraa024
-dc   $  @kira024
+dc   $  @kira024.
 web  $  nexusportal.ct.ws
