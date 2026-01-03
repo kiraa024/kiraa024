@@ -12,8 +12,6 @@ tools    $ Visual Studio, Git, Debuggers
 other    $ Reverse engineering, Overlay hooks, Modding frameworks
 
 repos    $ DX11-ImGui-Overlay-Hook   -> DX11 overlay for games
-          GTA5-ASI-MenuBase         -> GTA V ASI menu base
-          Simple-Injector           -> Minimal DLL injector
-          WinFormsToast             -> WinForms toast library
-
-stats    $ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiraa024&show_icons
+         $ GTA5-ASI-MenuBase         -> GTA V ASI menu base
+         $ Simple-Injector           -> Minimal DLL injector
+         $ WinFormsToast             -> WinForms toast library
